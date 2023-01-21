@@ -15,11 +15,5 @@
     "email-verify": "^0.2.1",
     "express": "^4.18.2",
     "express-validator": "^6.14.3"
-  },
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "index.js"
-    }
-  ]
+  }
 }
